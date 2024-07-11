@@ -6,6 +6,7 @@
 > - lepší uživatelské rozhraní
 > - zvuky, barvy a animace
 > - komplexnější příběh a osud
+> - nové postavy
 
 ### Zůstane něco stejné/podobné?
 > Ano, většina věcí ano. Dosavadní osudy budou zachovány a vylepšeny, plus přibydou 2 nové.
